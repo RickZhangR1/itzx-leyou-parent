@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/itzx-leyou-common/itzx-leyou-common.iml" filepath="$PROJECT_DIR$/itzx-leyou-common/itzx-leyou-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itzx-leyou-gateway/itzx-leyou-gateway.iml" filepath="$PROJECT_DIR$/itzx-leyou-gateway/itzx-leyou-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itzx-leyou-item/itzx-leyou-item.iml" filepath="$PROJECT_DIR$/itzx-leyou-item/itzx-leyou-item.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itzx-leyou-item/itzx-leyou-item-interface/itzx-leyou-item-interface.iml" filepath="$PROJECT_DIR$/itzx-leyou-item/itzx-leyou-item-interface/itzx-leyou-item-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itzx-leyou-item/itzx-leyou-item-service/itzx-leyou-item-service.iml" filepath="$PROJECT_DIR$/itzx-leyou-item/itzx-leyou-item-service/itzx-leyou-item-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itzx-leyou-parent.iml" filepath="$PROJECT_DIR$/itzx-leyou-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itzx-leyou-registory/itzx-leyou-registory.iml" filepath="$PROJECT_DIR$/itzx-leyou-registory/itzx-leyou-registory.iml" />
+    </modules>
+  </component>
+</project>

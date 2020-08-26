@@ -1,0 +1,6 @@
+# Project exclude paths
+/itzx-leyou-common/target/
+/itzx-leyou-gateway/target/
+/itzx-leyou-item/itzx-leyou-item-interface/target/
+/itzx-leyou-item/itzx-leyou-item-service/target/
+/itzx-leyou-registory/target/

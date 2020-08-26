@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: maoyan-registry
+server:
+  port: 10086
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:10086/eureka
+    register-with-eureka: false # 禁止自己被当作服务注册
+    fetch-registry: false # 不拉取注册信息
+  server:
+    enable-self-preservation: true # 自我保护
+    eviction-interval-timer-in-ms: 60000 # 排除无效服务的间隔时间
+
+
